@@ -1,0 +1,27 @@
+body { 
+	color: red;
+}
+.black-border {
+	border: 5px solid black;
+}
+  #green-background {
+        background-color: green;
+  }
+
+  footer { 
+	color: orange;
+}
+.purple-border {
+	border: 20px solid purple;
+}
+  #pink-background {
+      background-color: pink;
+} 
+nav {
+           font-size: 18px;
+  }
+p {
+      font-family: Arial, Helvetica, sans-serif;
+      font-size: 38px;
+      color: rgb(255, 0, 191);
+    }
